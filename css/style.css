@@ -1,0 +1,22 @@
+body {
+  margin-top:70px;
+  background:#fff;
+  color:#444;
+}
+
+h1 {
+  color: 	#F08080;
+}
+
+ h2 {
+   color: #ADD8E6;
+   font-size: 15px;
+ }
+
+.boxes {
+  color: 	#3CB371;
+}
+
+.card {
+  text-align: center;
+}
